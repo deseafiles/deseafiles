@@ -25,3 +25,7 @@
 - 🌸 [Struktur Data](https://github.com/deseafiles/Struktur-Data.git) - Implementations of data structures in **Java**
 
 ---
+<div align="center">
+  <h3>Let's Connect! 🌷</h3>
+  <img src="(https://giphy.com/gifs/lisa-vertudaches-happy-bunny-thank-you-3oEduJnper1UdNqreg)" width="50">
+</div>
