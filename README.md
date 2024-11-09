@@ -21,7 +21,7 @@
 ---
 
 ### 🧩 My Repositories
-- 🌸 [Budgetly] (https://github.com/deseafiles/Sistem-Pengelolaan-Keuangan-dengan-Metode-Envelope-Budgeting.git) - Implementations of OOP in **Java**
+- 🌸 [Budgetly](https://github.com/deseafiles/Sistem-Pengelolaan-Keuangan-dengan-Metode-Envelope-Budgeting.git) - Implementations of OOP in **Java**
 - 🌸 [Struktur Data](https://github.com/deseafiles/Struktur-Data.git) - Implementations of data structures in **Java**
 
 ---
