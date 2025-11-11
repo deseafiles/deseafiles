@@ -13,7 +13,7 @@
 
 ### 🎀 About Me 🎀
 
-- 👀 I’m interested in **Machine Learning** and **Cybersecurity**.
+- 👀 I’m interested in **Network Enginner** and **Cybersecurity**.
 - 🌱 I’m currently learning **Python programming**, **digital forensics**, and exploring **Capture The Flag (CTF)** challenges for cybersecurity.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/deseafiless/).
 - 😄 Pronouns: GirlBoz
